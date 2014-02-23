@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>wunder42.github.com/index.html</loc>
-<lastmod>2014-02-23T11:01:58-00:00</lastmod>
+<lastmod>2014-02-23T11:45:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>wunder42.github.com/archives.html</loc>
-<lastmod>2014-02-23T11:01:58-00:00</lastmod>
+<lastmod>2014-02-23T11:45:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>wunder42.github.com/tags.html</loc>
-<lastmod>2014-02-23T11:01:58-00:00</lastmod>
+<lastmod>2014-02-23T11:45:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>wunder42.github.com/categories.html</loc>
-<lastmod>2014-02-23T11:01:58-00:00</lastmod>
+<lastmod>2014-02-23T11:45:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,13 +34,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>wunder42.github.com/pages/about.html</loc>
 <lastmod>2014-01-12T00:00:00-00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>wunder42.github.com/pages/profile.html</loc>
-<lastmod>2014-02-18T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
